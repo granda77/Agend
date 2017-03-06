@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiAgenda</string>
+
+    <string name="btn_agregar">Agregar Contacto</string>
+
+    <string name="btn_ok">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_correo">Correo</string>
+
+
+</resources>
